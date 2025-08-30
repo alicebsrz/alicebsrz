@@ -3,6 +3,7 @@
 # 💫 About Me:
 🎓 Estudante de Engenharia de Computação na UERJ<br>🚀 Iniciante em programação e desenvolvimento<br>💻 Conhecimentos em Python, JavaScript, HTML, CSS e C++<br>🌍 Inglês intermediário<br>✨ Sempre em busca de aprender e evoluir na área de tecnologia
 
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjV5N2swcWJkZG8xd2VibG5lcG0ybjRoMDJxazlpbXJ3c3gwOG0xcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QyPgvXCIQ1nbCRDIXS/giphy.gif"  />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/alicebarbosa0101) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alicedesouzabarbosa01@gmail.com) 
@@ -20,7 +21,5 @@
 [![](https://visitcount.itsvg.in/api?id=alicebsrz&icon=9&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjV5N2swcWJkZG8xd2VibG5lcG0ybjRoMDJxazlpbXJ3c3gwOG0xcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QyPgvXCIQ1nbCRDIXS/giphy.gif"  />
 
 ###

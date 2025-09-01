@@ -8,7 +8,7 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/v1ih">
+      <a href="https://github.com/alicebsrz">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicebsrz&layout=compact&langs_count=6&theme=dracula"/>
       </a>
     </td>

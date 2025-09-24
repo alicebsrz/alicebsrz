@@ -1,4 +1,18 @@
 <h2 align="left">Hello World, I'm Alice! Welcome to my profile!</h2>
+Olá! Meu nome é Alice Barbosa, sou estudante de Engenharia de Computação (UERJ) e apaixonada por tecnologia e inovação.
+Atualmente estou desenvolvendo minhas habilidades como Full-Stack Developer, com foco em criar aplicações criativas, funcionais e com boas práticas de código.
+
+🚀 Minhas principais habilidades:
+
+Front-End: React, JavaScript (ES6+), HTML5, CSS3 (Flexbox, Grid, animações, responsividade)
+
+Back-End: Node.js, Express.js
+
+Banco de Dados: SQL e NoSQL (em aprendizado e prática)
+
+Outras competências: APIs RESTful, Git/GitHub, npm, Debugging, UI/UX, desenvolvimento de projetos do zero
+
+📌 Estou sempre em busca de aprender mais, participar de projetos desafiadores e evoluir como desenvolvedora.
 
 <table>
   <tr>

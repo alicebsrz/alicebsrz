@@ -1,5 +1,5 @@
 <h2 align="left">Hello World, I'm Alice! Welcome to my profile!</h2>
-Olá! Meu nome é Alice Barbosa, sou estudante de Engenharia de Computação (UERJ) e apaixonada por tecnologia e inovação.
+Olá! Meu nome é Alice Barbosa, sou estudante de Engenharia de Computação (UERJ) e apaixonada por tecnologia e inovação.  
 Atualmente estou desenvolvendo minhas habilidades como Full-Stack Developer, com foco em criar aplicações criativas, funcionais e com boas práticas de código.
 
 🚀 Minhas principais habilidades:
@@ -46,6 +46,7 @@ Outras competências: APIs RESTful, Git/GitHub, npm, Debugging, UI/UX, desenvolv
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
+</div>
 
 ###
 
@@ -56,8 +57,12 @@ Outras competências: APIs RESTful, Git/GitHub, npm, Debugging, UI/UX, desenvolv
 
 ###
 
+<!-- Pac-Man animation replacing the snake -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alicebsrz/alicebsrz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alicebsrz/alicebsrz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alicebsrz/alicebsrz/output/pacman-contribution-graph.svg">
 </picture>
+
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+

@@ -82,6 +82,8 @@ Atualmente desenvolvo minhas habilidades como <b>Full-Stack Developer</b>, crian
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+
 </div>
 
 <br>

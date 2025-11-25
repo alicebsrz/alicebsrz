@@ -1,68 +1,130 @@
-<h2 align="left">Hello World, I'm Alice! Welcome to my profile!</h2>
-Olá! Meu nome é Alice Barbosa, sou estudante de Engenharia de Computação (UERJ) e apaixonada por tecnologia e inovação.  
-Atualmente estou desenvolvendo minhas habilidades como Full-Stack Developer, com foco em criar aplicações criativas, funcionais e com boas práticas de código.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff79c6"/>
 
-🚀 Minhas principais habilidades:
+<br>
 
-Front-End: React, JavaScript (ES6+), HTML5, CSS3 (Flexbox, Grid, animações, responsividade)
+<div align="center">
+  
+  <samp style="font-family: Iosevka, monospace;">
+    <h1 align="center">🎀༘⋆ Olá, mundo 🎀༘⋆</h1>
 
-Back-End: Node.js, Express.js
+<br><br> <!-- aumenta o espaço -->
 
-Banco de Dados: SQL e NoSQL (em aprendizado e prática)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedora+Full+Stack;Criadora+de+experi%C3%AAncias+digitais;Apaixonada+por+tecnologia+e+design!&center=true&width=500&height=45&color=ff79c6">
+</p>
 
-Outras competências: APIs RESTful, Git/GitHub, npm, Debugging, UI/UX, desenvolvimento de projetos do zero
 
-📌 Estou sempre em busca de aprender mais, participar de projetos desafiadores e evoluir como desenvolvedora.
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/alicebsrz">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alicebsrz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/alicebsrz">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicebsrz&layout=compact&langs_count=6&theme=dracula"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-###
-
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2F4MmQ0b2ppbDljcjJya2x5NzB0ZHBheWJtZXEyZW5lOGo4NzJ6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QyPgvXCIQ1nbCRDIXS/giphy.gif" />
-
-### 🛠️ Technologies and Skills
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
 </div>
 
-###
+<br>
 
-<div> 
-  <a href="mailto:freelancejobslfn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/alicebarbosa0101" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+---
+
+<div align="center">
+
+### <span style="font-family: Iosevka; font-size: 22px;">💡 Sobre mim</span>
+
 </div>
 
-###
+<p style="font-family: Iosevka; font-size: 15px;">
+Sou <b>Alice Barbosa</b>, estudante de <b>Engenharia de Computação (UERJ)</b> e apaixonada por tecnologia, criatividade e inovação.  
+Atualmente desenvolvo minhas habilidades como <b>Full-Stack Developer</b>, criando aplicações funcionais, intuitivas e com foco em boas práticas de código.
+<br><br>
+💗 <i>Adoro trabalhar em todas as etapas: UI/UX, front-end e back-end.</i>
+</p>
 
-<!-- Pac-Man animation replacing the snake -->
+---
+
+<br>
+
+<div align="center">
+
+ 
+
+  <br><br>
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alicebsrz&theme=panda"/>
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+  <h3 style="font-family: Iosevka; font-size: 22px;">🌸 Linguagens mais usadas (Commits)</h3>
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alicebsrz&theme=panda" height="180"/>
+</div>
+
+---
+
+<br>
+
+<div align="center">
+  <h3 style="font-family: Iosevka; font-size: 22px;">🛠️ Tecnologias e Ferramentas</h3>
+</div>
+
+### ✐ <span style="font-family: Iosevka;">Front-End</span>
+<div align="center">
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+</div>
+
+<br>
+
+### 👩🏻‍💻 <span style="font-family: Iosevka;">Back-End & Banco de Dados</span>
+<div align="center">
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+</div>
+
+<br>
+
+### ⌯⌲ <span style="font-family: Iosevka;">Ferramentas e Outras Skills</span>
+<div align="center">
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+</div>
+
+---
+
+<br>
+
+<div align="center">
+  <h3 style="font-family: Iosevka; font-size: 22px;">📬 Como me encontrar</h3>
+
+  <a href="mailto:alicedesouzabarbosa01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ff79c6?style=for-the-badge&logo=gmail&logoColor=fff" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/alicebarbosa0101" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ff79c6?style=for-the-badge&logo=linkedin&logoColor=fff" />
+  </a>
+
+</div>
+
+---
+
+<br>
+
+<!-- Pac-Man animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alicebsrz/alicebsrz/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alicebsrz/alicebsrz/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alicebsrz/alicebsrz/output/pacman-contribution-graph.svg">
 </picture>
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff79c6&height=100&section=footer"/>
 

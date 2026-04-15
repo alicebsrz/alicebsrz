@@ -10,7 +10,7 @@
 <br><br> <!-- aumenta o espaço -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedora+Full+Stack;Criadora+de+experi%C3%AAncias+digitais;Apaixonada+por+tecnologia+e+design!&center=true&width=500&height=45&color=ff79c6">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedora+Full+Stack;Engenharia+da+Computação;Apaixonada+por+tecnologia!&center=true&width=500&height=45&color=ff79c6">
 </p>
 
 
